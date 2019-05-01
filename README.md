@@ -7,10 +7,12 @@
 
 
 Goal of our Project:
+
 Develope a Webpage that displays all images within a database containing all pictures of 
 West Chester University Computer Science Professors.
 
 We will achieve this by:
+
 Creating a working LAMP stack server utilizing Linux, Apache, MySQL, and PHP to host a server.
 Main goal is to create this LAMP stack server with individual containers that can communicate with one another through ports.
 This way we have individual environments between our Apache and PHP.
