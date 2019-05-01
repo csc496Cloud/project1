@@ -6,13 +6,13 @@
 # Devin Jones   JJ875698@wcupa.edu
 
 
-Goal of our Project:
+# Goal of our Project:
 
 Develope a Webpage that displays all images within a database containing all pictures of 
 
 West Chester University Computer Science Professors.
 
-We will achieve this by:
+# We will achieve this by:
 
 Creating a working LAMP stack server utilizing Linux, Apache, MySQL, and PHP to host a server.
 
