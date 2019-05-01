@@ -8,7 +8,7 @@
 
 # Goal of our Project:
 
-Develope a Webpage that displays all images within a database containing all pictures of 
+Develop a Webpage that displays all images within a database containing all pictures of 
 
 West Chester University Computer Science Professors.
 
